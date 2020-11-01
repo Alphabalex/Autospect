@@ -1,0 +1,16 @@
+@page
+{
+	size:A4;
+}
+#printer{
+	display: none;
+	visibility: hidden;
+}
+#printer_div{
+	display: none;
+	visibility: hidden;
+}
+
+#sideviews, .damages, #engine{ 
+    page-break-before: always;
+ }

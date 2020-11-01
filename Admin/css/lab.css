@@ -1,0 +1,99 @@
+div.form{
+	background-color: navy;
+	margin: 0px auto;
+	color: white;
+	padding: 20px;
+	width: 85%;
+	font-size: 20px;
+	margin-top: 20px;
+	text-align:center;
+	text-align: center;
+}
+
+table,th,td{
+	padding: 10px;
+	border: 1px solid black;
+}
+div.logo{
+  color: white;
+  padding: 20px;
+  font-size: 15px;
+  margin: 0px auto;
+  width: 90%;
+}*
+.msg{
+	color: white;
+	text-align: center;
+}
+nav{
+	background-color: navy;
+	width: 75%;
+	margin: 0px auto;
+}
+#nig{
+	color: navy;
+}
+#qc{
+	color: navy;
+	font-size: 20px;
+}
+#ser{
+	color: navy;
+}
+#cal{
+	color: navy;
+}
+#ph{
+	color: navy;
+}
+#pdf{
+	background-color: navy;
+	color: orangered;
+}
+#sa{
+	color: orangered;
+	background-color: navy;
+}
+
+
+.pro{
+	text-align: center;
+	color: navy;
+}
+.contain{
+	border: 2px solid ;
+	border-radius: 10px;
+	background-color:navy ;
+	color: white;
+	margin-top: 50px;
+	width: 70%;
+	margin: 0px auto;
+	padding: 70px;
+}
+.btn{
+	border: 1px solid white;
+	color: orangered;
+}
+/*h2{
+	text-transform: capitalize;
+	color: navy;
+}*/
+#sec1{
+	text-transform: capitalize;
+	color: white;
+	text-align: center;
+}
+#guar{
+	text-transform: capitalize;
+	color: white;
+	text-align: center;
+}
+.agr{
+	margin-right: 50px;
+}
+.not{
+	text-align: center;
+}
+.field{
+  width:100% !important;
+}

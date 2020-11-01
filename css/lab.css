@@ -1,0 +1,114 @@
+div.form{
+	background-color: midnightblue;
+	margin: 0px auto;
+	color: white;
+	padding: 20px;
+	width: 85%;
+	font-size: 20px;
+	margin-top: 20px;
+	text-align:center;
+	text-align: center;
+}
+#checklist{
+	background: white;
+	max-width: 100%;
+	text-transform: capitalize;
+}
+#checklist, #checklist td, #checklist th{
+	padding: 10px;
+}
+#checklist th{
+	text-align: center;
+	font-weight: bolder;
+}
+#checklist input{
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+div.logo{
+  color: white;
+  padding: 20px;
+  font-size: 15px;
+  margin: 0px auto;
+  width: 90%;
+}
+.msg{
+	color: white;
+	text-align: center;
+}
+nav{
+	background-color: midnightblue;
+	width: 75%;
+	margin: 0px auto;
+}
+#nig{
+	color: midnightblue;
+}
+#qc{
+	color: midnightblue;
+	font-size: 20px;
+}
+#ser{
+	color: midnightblue;
+}
+#cal{
+	color: midnightblue;
+}
+#ph{
+	color: midnightblue;
+}
+#pdf{
+	background-color: midnightblue;
+	color: orangered;
+}
+#sa{
+	color: orangered;
+	background-color: midnightblue;
+}
+
+
+.pro{
+	text-align: center;
+	color: midnightblue;
+}
+.contain{
+	border: 2px solid white;
+	border-radius: 20px;
+	background-color:midnightblue ;
+	color: white;
+	margin-top: 20px;
+	width: 80%;
+	margin: 0px auto;
+	padding: 20px;
+}
+.btn{
+	border: 1px solid white;
+	color: orangered;
+}
+/*h2{
+	text-transform: capitalize;
+	color: midnightblue;
+}*/
+#sec1{
+	text-transform: capitalize;
+	color: white;
+	text-align: center;
+}
+#guar{
+	text-transform: capitalize;
+	color: white;
+	text-align: center;
+}
+.agr{
+	margin-right: 50px;
+}
+.not{
+	text-align: center;
+}
+.field{
+  width:100% !important;
+}
+#needs-validation fieldset:not(:first-of-type) {
+    display: none;
+  }
